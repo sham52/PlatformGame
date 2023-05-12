@@ -1,0 +1,6 @@
+# Project exclude paths
+/Oyun/.gradle/
+/Oyun/core/build/
+/Oyun/core/build/classes/java/main/
+/Oyun/desktop/build/
+/Oyun/desktop/build/classes/java/main/
